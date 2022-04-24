@@ -1,6 +1,6 @@
 # Data-Manipulation-using-SQL
 
-Analysis of 23000 record for Customer Transaction related to different products.
+Analysis of 23000 record for Customer Transaction related to different products. (Basic)
 
 1.	Importing csv files into Database by connecting SQL Server.
 2.	Understanding the data through looking at the columns from customer, product and transaction table
@@ -10,7 +10,7 @@ Analysis of 23000 record for Customer Transaction related to different products.
 6.	Joining tables using Inner Join to find product and customer related sales, revenue etc.
 7.	Applying Dateadd along with Convert function to convert into date-time for retrieving date-wise transactions like last 30 days, last 3 months.
 
-Analysis of Mobile Phone Sales across USA’s different region
+Analysis of Mobile Phone Sales across USA’s different region. (Advanced)
 
 1.	Creating 6 different tables as per schema i.e.  Dim_Manufacturer, Dim_model, Dim_Customer, Dim_Model, Dim_Location and Fact_Transactions.
 2.	Inserting data into these tables.
